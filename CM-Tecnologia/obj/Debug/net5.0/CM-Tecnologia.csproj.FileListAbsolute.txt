@@ -1,0 +1,16 @@
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\CM-Tecnologia.csproj.AssemblyReference.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\CM-Tecnologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\CM-Tecnologia.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\CM-Tecnologia.AssemblyInfo.cs
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\CM-Tecnologia.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\bin\Debug\net5.0\CM-Tecnologia.exe
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\bin\Debug\net5.0\CM-Tecnologia.deps.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\bin\Debug\net5.0\CM-Tecnologia.runtimeconfig.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\bin\Debug\net5.0\CM-Tecnologia.runtimeconfig.dev.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\bin\Debug\net5.0\CM-Tecnologia.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\bin\Debug\net5.0\ref\CM-Tecnologia.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\bin\Debug\net5.0\CM-Tecnologia.pdb
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\CM-Tecnologia.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\ref\CM-Tecnologia.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\CM-Tecnologia.pdb
+C:\Users\JoãoPaulodosSantosSa\source\repos\CM-Tecnologia\CM-Tecnologia\obj\Debug\net5.0\CM-Tecnologia.genruntimeconfig.cache

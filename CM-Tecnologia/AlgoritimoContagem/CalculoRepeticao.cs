@@ -2,31 +2,33 @@
 {
     public class CalculoRepeticao
     {
-        public static int CalculoNumeros()
+        public static int CalculoNum()
         {
             int[] numArray = { 10, 10, 10, 20, 5, 5, 9 };
-            int[] numeros = new int[5];
             int repeticao = 0;
-            int repeticaoPadrao = 0;
+            int moda = 0;
+            int comparar = 0;
 
-            foreach (var num in numArray)
+            for (var i = 0; i < numArray.Length; i++)
             {
-                for (var i = 0; i < numArray.Length; i++)
+                repeticao = 0;
+
+                for (var j = i + 1; j < numArray.Length; j++)
                 {
-                    if (num == numArray[i])
+                    if (numArray[i] == numArray[j])
                     {
                         repeticao++;
                     }
+                }
 
-                    if (repeticao > repeticaoPadrao)
-                    {
-                        repeticaoPadrao = repeticao;
-                        numeros[i] = numArray[i];
-                    }
+                if (repeticao > comparar)
+                {
+                    moda = numArray[i];
+                    comparar = repeticao;
                 }
             }
 
-            return repeticaoPadrao;
+            return moda;
         }
     }
 }

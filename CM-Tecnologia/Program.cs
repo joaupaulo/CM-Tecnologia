@@ -28,7 +28,7 @@ namespace CM_Tecnologia
             {
                 case 1:
                     {
-                        CalculoRepeticao.CalculoNumeros();
+                        CalculoRepeticao.CalculoNum();
                         break;
                     }
 

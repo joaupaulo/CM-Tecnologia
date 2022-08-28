@@ -1,8 +1,10 @@
-﻿namespace CM_Tecnologia
+﻿using System;
+
+namespace CM_Tecnologia
 {
     public class CalculoRepeticao
     {
-        public static int CalculoNum()
+        public static void CalculoNum()
         {
             int[] numArray = { 10, 10, 10, 20, 5, 5, 9 };
             int repeticao = 0;
@@ -28,7 +30,7 @@
                 }
             }
 
-            return moda;
+            Console.WriteLine("$({moda})");
         }
     }
 }

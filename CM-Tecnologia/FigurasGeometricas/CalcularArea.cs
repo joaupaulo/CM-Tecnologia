@@ -8,6 +8,6 @@ namespace CM_Tecnologia.FigurasGeometricas
 {
    public abstract class CalcularArea
     {
-        public abstract Double calculaArea();
+        public abstract Double calculaArea { get; }
     }
 }

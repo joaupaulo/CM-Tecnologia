@@ -4,16 +4,9 @@ namespace CM_Tecnologia.FigurasGeometricas
 {
     public class Circulo : CalcularArea
     {
-        private double raio;
+        public double raio { get; set; }
 
-        public  Circulo(double raio)
-        {
-            this.raio = raio;
-        }
+        public override double calculaArea => Math.Pow(this.raio, 2) * Math.PI;
 
-        public override double calculaArea()
-        {
-            return Math.PI * (raio * raio);
-        }
     }
 }

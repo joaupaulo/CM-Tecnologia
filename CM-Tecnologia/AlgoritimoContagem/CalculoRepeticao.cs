@@ -6,7 +6,7 @@ namespace CM_Tecnologia
     {
         public static void CalculoNum()
         {
-            int[] numArray = { 10, 10, 10, 20, 5, 5, 9 };
+            int[] numArray = { 10, 10, 10, 20,5,5, 5, 5, 9 };
             int repeticao = 0;
             int moda = 0;
             int comparar = 0;
@@ -30,7 +30,7 @@ namespace CM_Tecnologia
                 }
             }
 
-            Console.WriteLine("$({moda})");
+            Console.WriteLine($" Essa é a mooda do vetor : {moda}");
         }
     }
 }

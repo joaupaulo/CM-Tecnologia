@@ -2,16 +2,8 @@
 {
     public class Quadrado : CalcularArea
     {
-        private double lado;
+        public double lado { get; set; }
 
-        public Quadrado(double lado)
-        {
-            this.lado = lado;
-        }
-
-        public override double calculaArea()
-        {
-            return lado * lado;
-        }
+        public override double calculaArea => this.lado * this.lado;
     }
 }
